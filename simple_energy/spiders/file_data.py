@@ -1,7 +1,5 @@
 import os
 
-from scrapy.loader.processors import MapCompose, Join
-from scrapy.loader import ItemLoader
 import scrapy
 
 from simple_energy.items import SimpleEnergyItem
